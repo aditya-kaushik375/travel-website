@@ -1,0 +1,36 @@
+.tour-slider {
+  background-color: #e6e5e3;
+  padding: 20px;
+  height: 55vh;
+  background-size: cover;
+  width: 77vw;
+  margin: 10px auto;
+}
+
+.tour-card {
+  margin-left: 5px;
+  height: 50vh;
+  width: 70vw;
+  background-size: cover;
+  border-radius: 10px;
+  background-position: end;
+  display: flex;
+  border-radius: 5px;
+}
+.description {
+  color: #fff;
+  align-self: flex-end;
+  padding: 0 10px;
+  letter-spacing: 1px;
+}
+button {
+  background-color: #258de8;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+button a {
+  text-decoration: none;
+  color: #fff;
+}

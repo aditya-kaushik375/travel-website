@@ -1,0 +1,29 @@
+.booking-img {
+  width: 290px;
+  height: 150px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.booking-item {
+  border: 1px solid black;
+  width: 310px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 1px 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 1rem auto;
+  border-radius: 10px;
+}
+.booking-btn {
+  width: 5rem;
+  font-size: 0.9rem;
+  align-self: flex-end;
+  color: #fff;
+}
+.booking-btn:hover {
+  background-color: #000;
+  color: #fff;
+}

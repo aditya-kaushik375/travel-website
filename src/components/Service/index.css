@@ -1,0 +1,12 @@
+.styleContainer {
+  width: 90vw;
+  height: 63vh;
+  margin: 0 auto;
+  margin-bottom: 0.7rem;
+  padding: 0 1rem 0 1rem;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}

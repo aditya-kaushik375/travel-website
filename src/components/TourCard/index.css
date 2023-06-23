@@ -1,0 +1,30 @@
+.tour-slider {
+  background-color: #e6e5e3;
+  padding: 20px;
+  background-size: cover;
+  position: relative;
+}
+
+.tour-card {
+  margin-left: 5px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  border-radius: 5px;
+}
+.description {
+  color: #fff;
+  align-self: flex-end;
+  padding: 0 10px;
+}
+button {
+  background-color: #258de8;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+button a {
+  text-decoration: none;
+  color: #fff;
+}

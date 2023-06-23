@@ -1,0 +1,31 @@
+.form-label {
+  color: #fff;
+  margin-bottom: 0.7rem;
+}
+.form-form {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 1rem;
+  margin: auto;
+  max-width: 600px;
+}
+
+.submit {
+  display: block;
+  margin: auto;
+  width: 5rem;
+  font-size: 1.2rem;
+  padding: 12px;
+  background-color: olive;
+  color: #fff;
+}
+
+.form-form .form-input,
+.form-textarea {
+  margin-bottom: 1rem;
+  padding: 10px 18px;
+  font-size: 1.2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: #000;
+  color: #000;
+}

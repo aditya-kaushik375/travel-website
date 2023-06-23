@@ -1,0 +1,19 @@
+.left img {
+  height: 100px;
+  padding: 10px;
+  margin-right: 10px;
+}
+.why-container {
+  display: flex;
+  padding: 1rem;
+}
+.whyus-container {
+  display: flex;
+  margin: 1rem auto;
+  width: 95vw;
+}
+@media screen and (max-width: 800px) {
+  .whyus-container {
+    flex-direction: column;
+  }
+}
